@@ -1,2 +1,2 @@
 # snack
-Snake running sdl?. Don't even know if it works
+Snake using sdl?. Don't even know if it works
